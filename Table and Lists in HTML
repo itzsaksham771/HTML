@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table and Lists</title>
+</head>
+
+<body>
+    <ul type="square">
+        <li>This is the first item of unordered list</li>
+        <li>This is the second item of unordered list</li>
+        <ul type="circle">
+            <li>I am list under list</li>
+            <li>I am list under list</li>
+            <li>I am list under list</li>
+        </ul>
+        <li>This is the third item of unordered list</li>
+    </ul>
+    <ol type="a">
+        <li>This is the first item of an ordered list</li>
+        <li>This is the second item of an orde red list</li>
+        <li>This is the third item of an ordered list</li>
+    </ol>
+    <!-- Table in htMl -->
+    <h3> TABLE </h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Employee id </th>
+                <th>Employee role </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Saksham</td>
+                <td>25416</td>
+                <td>Programmer</td>
+            </tr>
+            <tr>
+                <td>Vaibhav</td>
+                <td>25274</td>
+                <td>Html expert</td>
+            </tr>
+            <tr>
+                <td>Lalit</td>
+                <td>9654885</td>
+                <td>Androoid developer</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
