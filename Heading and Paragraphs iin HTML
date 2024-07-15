@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- p*34 gives 34 paragraph -->
+    <!-- control and forward slash for comment  -->
+    <h1>Saksham</h1>
+    <h2>Saksham</h2>
+    <h3>Saksham</h3>
+    <h4>Saksham</h4>
+    <h5>Saksham</h5>
+    <h6>Saksham</h6>
+    <p>This is paragraph....</p>
+    <!-- lorem50 is used to write 50 dummy word  -->
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <em> asdffggkglrk </em>Magni aspernatur, provident incidunt quae nulla laboriosam <br> dignissimos laborum. Obcaecati voluptates aut doloremque eum deserunt ullam unde ab ad. Natus sapiente laboriosam, nemo ut illum <strong> or bhai kya hall chaal </strong>facilis ab doloribus?> Fugit, nulla facere, vero harum</p>
+    <p>First</p>
+    <p>Second
+        <hr>
+    </p>
+</body>
+</html>
