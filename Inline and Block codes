@@ -1,0 +1,31 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline and block elements </title>
+</head>
+
+<body>
+    <p style="border: 2px solid, burlywood ;">This is a paragraph </p>
+    <p style="border: 2px solid, red ;">This is also a paragraph</p>
+    <span style="border: 2px solid, red ;">This is a span paragraph </span> <span style="border: 2px solid, red ;">This
+        is also a span paragraph</span>
+</body>
+
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline and block elements </title>
+</head>
+<body>
+    <strong style="border: 2px solid red;">this is a paragraph</strong> <a style="border: 2px solid blue;">
+        this is also a paragraph</a>
+    <span style="border: 2px solid red;">this is a span</span> <span style="border: 2px solid red;">this is also a span</span>
+</body>
+</html>
