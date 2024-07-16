@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML entities</title>
+</head>
+<body>
+    <div class="container">
+        <p>This is a paragraph </p>
+        <p>This is another &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; paragraph </p>
+         <p>Want to paragraph written like this <p> </p>   <!--<P> nhi aa rha  -->
+        <p>Want to paragraph written like this &lt;p&gt; </p>
+        <p>Pound is written like this &pound;</p>
+        <p>copyrigth is written like this &copy;</p>
+    </div>
+</body>
+</html>  
